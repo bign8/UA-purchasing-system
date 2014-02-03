@@ -2,3 +2,4 @@ name: UA-Purchasing-System docs
 markdown: redcarpet
 pygments: true
 permalink: /posts/:year/:month/:day/:title.html
+baseurl: /UA-purchasing-system
