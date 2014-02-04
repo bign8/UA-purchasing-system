@@ -15,9 +15,9 @@ categories: update
 	- [h] Testing
 	- [x] Emails
 	- [x] Feedback Link
+	- [x] MPA
 	- [x] Register with email
-	- [ ] Hard / Soft
-	- [ ] MPA
+	- [-] Hard / Soft (re-work cart)
 	- [ ] Photo Field
 - How to organize documentation?
 	- by page
@@ -27,6 +27,7 @@ categories: update
 - [x] = done
 - [ ] = get on it
 - [?] = spair time fun
+- [-] = half-way complete
 - [h] = help. Need others to assist
 
 --------
