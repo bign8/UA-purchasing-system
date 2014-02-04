@@ -4,7 +4,6 @@ title:  Weekly Update
 categories: update
 ---
 ## Last Week's Completions ([0.03][tag])
-
 *Note: This meeting was delayed; Completions up to [`2f16175`][notes]*
 
 - Adopted [Git Flow Work Flow][gitf]
@@ -59,7 +58,7 @@ categories: update
 	- Front End Text / Review
 	- Hard / Soft
 	- MPA
-	- Photo
+	- Photo Field
 	- Register with email
 	- Testing
 - How to organize documentation?
@@ -68,5 +67,4 @@ categories: update
 --------
 
 ## Meeting Notes
-
 *See sub-bulleted items under questions*
