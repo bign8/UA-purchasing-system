@@ -15,9 +15,9 @@ categories: update
 	- [h] Testing
 	- [x] Emails
 	- [x] Feedback Link
+	- [x] Hard / Soft (re-work cart)
 	- [x] MPA
 	- [x] Register with email
-	- [-] Hard / Soft (re-work cart)
 	- [ ] Photo Field
 - How to organize documentation?
 	- by page
