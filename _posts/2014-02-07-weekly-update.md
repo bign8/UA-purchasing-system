@@ -17,8 +17,8 @@ categories: update
 	- [x] Feedback Link
 	- [x] Hard / Soft (re-work cart)
 	- [x] MPA
+	- [x] Photo Field
 	- [x] Register with email
-	- [ ] Photo Field
 - How to organize documentation?
 	- by page
 
