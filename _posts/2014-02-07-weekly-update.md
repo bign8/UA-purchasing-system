@@ -33,7 +33,7 @@ categories: update
 --------
 ## Last Week's Completions ([0.04][tag])
 
-- a
+- Found BIG mistake in cart item totals (based on template not option) + partially fixed
 
 [tag]: http://google.com/
 
