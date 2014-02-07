@@ -66,11 +66,11 @@ categories:
 
 - Move PayPal over now or later? (The redirect)
 
-- Fix pass products to pull acuisitions
+- Fix pass products to pull acquisition
 	- look into errors
-- Checkbox multiple choice item
-- Select w/other option
-- repull cart on currentUser change
+- Check-box multiple choice item
+- Select w/ other option
+- re-pull cart on currentUser change
 - fix total on cart checkout
 - add more people to conference!
 	- pulling past purchase data
