@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Weekly Update
-categories: update
+categories:
+- update
+- develop
 ---
 ## Last Week's Completions ([0.04][tag])
 

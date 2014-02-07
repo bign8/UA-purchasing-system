@@ -1,7 +1,9 @@
 ---
 layout: post
 title:  Weekly Update
-categories: update
+categories:
+- update
+- develop
 ---
 ## Last Week's Completions ([0.03][tag])
 *Note: This meeting was delayed; Completions up to [`2f16175`][notes]*

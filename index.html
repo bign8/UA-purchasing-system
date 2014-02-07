@@ -2,12 +2,20 @@
 layout: default
 title: Your New Jekyll Site
 ---
+<h1>Processes</h1>
+<ul class="posts">
+{% for post in site.posts %}
+	{% if post.categories contains 'process' %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
 
-<div id="home">
-  <h1>Blog Posts</h1>
-  <ul class="posts">
-    {% for post in site.posts %}
-      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-  </ul>
-</div>
+<h1>Updates</h1>
+<ul class="posts">
+{% for post in site.posts %}
+	{% if post.categories contains 'update' %}
+		<li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
