@@ -3,46 +3,62 @@ layout: post
 title:  Weekly Update
 categories: update
 ---
-## Last week's comments / questions
-
-- How to register with previously registered email?
-	- Password reset on duplicate
-	- In dialog
-	- Move email first, verify on blur
-- What else do we need before we move to production? (What's holding us back)
-	- [?] Branding (Logo, banner, colors, fonts)
-	- [h] Front End Text / Review
-	- [h] Testing
-	- [x] Emails
-	- [x] Feedback Link
-	- [x] Hard / Soft (re-work cart)
-	- [x] MPA
-	- [x] Photo Field
-	- [x] Register with email
-- How to organize documentation?
-	- by page
-
-**Index:**
-
-- [x] = done
-- [ ] = get on it
-- [?] = spair time fun
-- [-] = half-way complete
-- [h] = help. Need others to assist
-
---------
 ## Last Week's Completions ([0.04][tag])
 
-- Found BIG mistake in cart item totals (based on template not option) + partially fixed
+- Fixed footer / feedback link ([Merge][foot])
+- Finished Creating all the proper emails ([Merge][email])
+	- New Firm Notification
+	- New User Registration
+	- Membership Addition
+- Reset Password on Contact for duplicate email ([Merge][reset])
+- Implemented items to be purchased by user (ie: MPA) ([Merge][user])
+- Handle HardCopy vs. SoftCopy pricing ([Commit][hard])
+	- Required significantly rewrite + changes to cart ([Merge][cart])
+		- Fixed some outstanding issues + design flaws
+- Added Form fields ([Merge][form]) ([Example][field])
+	- Image Upload
+	- TextArea
+- Added simple site simulator for internal tests ([Merge][site]) ([Link][simul])
+- Found BIG mistake in cart item totals (based on template not option) + partially fixed ([Merge][error])
 
-[tag]: http://google.com/
+[tag]:   https://github.com/bign8-AZ/UA-purchasing-system/commit/822ce912fb7dbd93504dde01a7759b4c4375e4d6
+[foot]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/e7666d323b457a4c4bd10649a7270f100e14f042
+[email]: https://github.com/bign8-AZ/UA-purchasing-system/commit/043095118c20f17b0b26d113a6acafcdbd69fda3
+[reset]: https://github.com/bign8-AZ/UA-purchasing-system/commit/65fd44fad2eb8a624b10aaafd03e32111051e686
+[user]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/8320bfd11a35b45e207add90e031f87b63c6f369
+[hard]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/216d40c1a0545b2b63df1d76bca94e45c32c53c3
+[cart]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/79d89bfed5813d178a47b1ae76fcdaea2e24b770
+[form]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/243b5329f148a102e8e2eab539a8c973196c1c2f
+[field]: http://payment.upstreamacademy.com/conference/148
+[site]:  https://github.com/bign8-AZ/UA-purchasing-system/commit/5042515d6fd50047a64dff47c64130e092ebe9e5
+[simul]: http://payment.upstreamacademy.com/site.php
+[error]: https://github.com/bign8-AZ/UA-purchasing-system/commit/dc11465f97ba72894e5c6b5bd7ec5e821b288dcb
+
+*Note: Ordered Chronologically*
 
 --------
-## Questions
+## Remaining TO-DO's
 
-- a
+### For Me 
+
+- Add all items to database
+- Branding
+- Clean Up cart (options NOT template)
+- Delete dummy data from database
+- Emails
+	- Cart sending correctly
+		- Images (delete from server)
+		- Items
+		- Pricing
+- Force profile picture reset on form reset
+	- Don't forget to delete image
+
+### For Team
+
+- Front End Text / Review
+- Testing
 
 --------
-## Meeting Notes
+## Meeting Notes / Questions
 
-- a
+- Move PayPal over now or later? (The redirect)
