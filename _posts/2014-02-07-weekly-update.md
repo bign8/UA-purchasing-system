@@ -58,9 +58,19 @@ categories:
 ### For Team
 
 - Front End Text / Review
+	- Duplicate email - reset password OR login if they know password
 - Testing
 
 --------
 ## Meeting Notes / Questions
 
 - Move PayPal over now or later? (The redirect)
+
+- Fix pass products to pull acuisitions
+	- look into errors
+- Checkbox multiple choice item
+- Select w/other option
+- repull cart on currentUser change
+- fix total on cart checkout
+- add more people to conference!
+	- pulling past purchase data
