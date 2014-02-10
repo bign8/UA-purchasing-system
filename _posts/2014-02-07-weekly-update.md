@@ -64,14 +64,14 @@ categories:
 --------
 ## Meeting Notes / Questions
 
-- Move PayPal over now or later? (The redirect)
+- Move PayPal over now or later? (The redirect) LATER!
 
 - [x] Fix pass products to pull acquisition
 	- look into errors
 - Add form questions
 	- Check-box multiple choice item
 	- Select w/ other option
-- [-] re-pull cart on currentUser change
+- [x] re-pull cart on currentUser change
 	- Works! but acquaintance are messed up
 - [x] fix total on cart checkout
 - add more people to conference!
