@@ -68,7 +68,7 @@ categories:
 
 - [x] Fix pass products to pull acquisition
 	- look into errors
-- Add form questions
+- [x] Add form questions
 	- Check-box multiple choice item
 	- Select w/ other option
 - [x] re-pull cart on currentUser change
