@@ -74,5 +74,5 @@ categories:
 - [x] re-pull cart on currentUser change
 	- Works! but acquaintance are messed up
 - [x] fix total on cart checkout
-- add more people to conference!
+- [x] add more people to conference!
 	- pulling past purchase data
