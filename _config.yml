@@ -1,5 +1,7 @@
 name: UA-Purchasing-System docs
 markdown: redcarpet
+redcarpet:
+    fenced_code_blocks: true
 pygments: true
 permalink: /posts/:year/:month/:day/:title.html
 baseurl: /UA-purchasing-system
