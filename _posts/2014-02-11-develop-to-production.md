@@ -11,27 +11,17 @@ The instructions that follow explain how to properly release a production build 
 	```bash
 	$ git checkout -b release-*
 	```
-2. Change the version number in `package.json` and dependency versions as necessary.  
-*This version number should match the release branches number*
-
-	```javascript
-	{
-		// ...
-		"version": "1.2.0",  
-		// ...
-		"devDependencies": {
-			"grunt": "~0.4.1",
-			// ...
-		}
-	}
-	
-	```
-3. Commit you bumped version.
+2. Bump version and remove development only code.
 
 	```bash
-	$ git commit -am 'Bumped version number to 1.2'
+	$ ./dev/release/index.sh 1.2 # This number should be the same as the branch
 	```
-4. Remove development only code.  
+3. Commit your bumped and clean version .
+
+	```bash
+	$ git commit -am 'Bumped version + cleaned files'
+	```
+4. Remove any other *"development only"* code.  
 *Multi-file searches in __sublime-text__ can be performed using `ctrl`+`shift`+`f`*
 	* Search for `"todo"`, `"test"`, or `"dev"` on the `/src` directory
 	* Search for `"| json"` within the templates
