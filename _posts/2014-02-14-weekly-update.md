@@ -56,41 +56,46 @@ categories:
 --------
 Desired Changes:
 
-- [x] Modify Login  
-	![New Login Form](/img/loginMod.jpg)
-- [x] Change "Check" to "Start" (/register)
-- [m] Password: Can we switch this to at least one number or special character?
-- [f] Move Primary buttons to the bottom right
-- [f] Remove URL validation (www.asdf.com no http://)
-- [f] Can we change Click 'set' to assign to Click 'set' to enter an address
-- [m] disabling cross firm/register firm stuff - error (/register)
-- [f] Change address to mailing address / physical address
-- [f] Billings Office, Home Address, etc. ... for name on address
-- [m] Remove spouse question! From conference
-- [m] Optional phone number
-- [f] name first title second
-- [l] When I add someone for ELA and put in their information, it let's me save but is still red.  We need to make sure none of these fields are mandatory
-- [m] Redirect to shopping cart on no options for registering for event  
-	![Don't want to see this](/img/badConf.png)
-- [f] change *"set"* button to *"select attendees"* on /cart
-- [f] Can we change *"Hard-copy"*? To *"Add a hard copy for an additional $50"*
-- [m] Specialty niches as multiple check-box
-	- Tax
-	- Audit
-	- Payroll  Services
-	- Business Management Consulting- Fraud Examination 
-	- IT Consulting 
-	- Business Valuation
-	- Cost Segregation
-	- Controller Services
-	- Litigation Support
-	- Financial Planning
-	- SOX 44 Consulting
-	- Other (with a large text field)
-- [m] don't add phone to firm! don't require phone for participants / contacts
-- [l] progress Branding
-- [l] **ERROR AGAIN** Force profile picture reset on form reset
-	- Don't forget to delete image
+- Fast
+	- [x] Modify Login  
+		![New Login Form](/img/loginMod.jpg)
+	- [x] Change "Check" to "Start" (/register)
+	- [x] Move Primary buttons to the bottom right
+	- [x] Remove URL validation (www.asdf.com no http://)
+	- [x] Can we change *Click 'set' to assign* to *Click 'set' to enter an address*
+	- [x] Change address to mailing address / physical address
+	- [x] Billings Office, Home Address, etc. ... for name on address
+	- [x] name first title second
+	- [x] change *"set"* button to *"select attendees"* on /cart
+	- [x] Can we change *"Hard-copy"*? To *"Add a hard copy for an additional $50"*
+	- [x] Add delete column above x button on /cart
+- Medium 
+	- [m] Password: Can we switch this to at least one number or special character?
+	- [m] disabling cross firm/register firm stuff - error (/register)
+	- [m] Remove spouse question! From conference
+	- [m] Optional phone number
+	- [m] Redirect to shopping cart on no options for registering for event  
+		![Don't want to see this](/img/badConf.png)
+	- [m] Specialty niches as multiple check-box
+		- Tax
+		- Audit
+		- Payroll  Services
+		- Business Management Consulting- Fraud Examination 
+		- IT Consulting 
+		- Business Valuation
+		- Cost Segregation
+		- Controller Services
+		- Litigation Support
+		- Financial Planning
+		- SOX 44 Consulting
+		- Other (with a large text field)
+	- [m] don't add phone to firm! don't require phone for participants / contacts
+- Long
+	- [l] progress Branding
+	- [l] When I add someone for ELA and put in their information, it let's me save but is still red.
+		- We need to make sure none of these fields are mandatory
+	- [l] **ERROR AGAIN** Force profile picture reset on form reset
+		- Don't forget to delete image
 
 --------
 
