@@ -70,13 +70,11 @@ Desired Changes:
 	- [x] Can we change *"Hard-copy"*? To *"Add a hard copy for an additional $50"*
 	- [x] Add delete column above x button on /cart
 - Medium 
-	- [m] Password: Can we switch this to at least one number or special character?
-	- [m] disabling cross firm/register firm stuff - error (/register)
-	- [m] Remove spouse question! From conference
-	- [m] Optional phone number
-	- [m] Redirect to shopping cart on no options for registering for event  
+	- [x] don't require phone for participants / contacts
+	- [x] Remove spouse question! From conference
+	- [x] Redirect to shopping cart on no options for registering for event  
 		![Don't want to see this](/img/badConf.png)
-	- [m] Specialty niches as multiple check-box
+	- [x] Specialty niches as multiple check-box
 		- Tax
 		- Audit
 		- Payroll  Services
@@ -89,18 +87,23 @@ Desired Changes:
 		- Financial Planning
 		- SOX 44 Consulting
 		- Other (with a large text field)
-	- [m] don't add phone to firm! don't require phone for participants / contacts
+	- [-] Password: Can we switch this to at least one number or special character?
+	- [-] disabling cross firm/register firm stuff - error (/register)
 - Long
-	- [l] progress Branding
-	- [l] When I add someone for ELA and put in their information, it let's me save but is still red.
+	- [-] progress Branding
+	- [-] When I add someone for ELA and put in their information, it let's me save but is still red.
 		- We need to make sure none of these fields are mandatory
-	- [l] **ERROR AGAIN** Force profile picture reset on form reset
+	- [-] **ERROR AGAIN** Force profile picture reset on form reset
 		- Don't forget to delete image
 
---------
+What this means:
 
+- [x] Complete
+- [-] Incomplete
+
+--------
 ## Meeting Notes
-ELA NEEDS PARTICIPANTS (GUIDES / AVOCATE QUECTIONS STUFF)
+ELA NEEDS PARTICIPANTS (GUIDES / AVOCATE QUECTIONS STUFF)  
 http://upstreamacademy.com/register/ela.aspx
 
 MP sign up day of for future
