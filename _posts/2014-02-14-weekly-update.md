@@ -87,19 +87,20 @@ Desired Changes:
 		- Financial Planning
 		- SOX 44 Consulting
 		- Other (with a large text field)
-	- [-] Password: Can we switch this to at least one number or special character?
-	- [-] disabling cross firm/register firm stuff - error (/register)
+	- [x] Password: Can we switch this to at least one number or special character?
+	- [x] disabling cross firm/register firm stuff - error (/register)
 - Long
-	- [-] progress Branding
-	- [-] When I add someone for ELA and put in their information, it let's me save but is still red.
-		- We need to make sure none of these fields are mandatory
-	- [-] **ERROR AGAIN** Force profile picture reset on form reset
+	- [x] **ERROR AGAIN** Force profile picture reset on form reset
 		- Don't forget to delete image
+	- [?] When I add someone for ELA and put in their information, it let's me save but is still red.
+		- We need to make sure none of these fields are mandatory
+	- [-] progress Branding
 
 What this means:
 
 - [x] Complete
 - [-] Incomplete
+- [?] Cannot reproduce
 
 --------
 ## Meeting Notes
