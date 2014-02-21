@@ -7,7 +7,8 @@ categories:
 ---
 ## Last Week's Completions
 
-
+- Handling Kelsey's desired changes (listed below)
+- Dev DB (in progress)
 
 --------
 ## Desired Changes:
@@ -123,6 +124,12 @@ I can't get anything added to the cart when I'm using Internet Explorer. I can g
 - [!] Because it's designed that way
 - [?] Cannot reproduce
 
-
 --------
 ## Meeting Notes
+
+- set upcoming presentations for uan members = $0 [x]
+- need attendees for conferences, ela [x], hpf [x]
+- send email on cart send (not on validation) [x]
+- ie10: lag register issue [unable to reproduce]
+- Add a note on how to get downloads after purchase [x]
+- change names of items from "Business Development 1" to "BD1" [...later...]
