@@ -12,7 +12,7 @@ categories: update
 	- Added Firm managment (minus merging ability) ([merge][firmad])
 
 [0.2.00]: https://github.com/bign8-AZ/UA-purchasing-system/commit/686dc0c1a5f4139f5b1e6b5298f8ecee7608af72
-[0.3.00]: #in-progress
+[0.3.00]: https://github.com/bign8-AZ/UA-purchasing-system/commit/d92125aaffc49f629d189a066a10b72b826a339f
 [devdbs]: https://github.com/bign8-AZ/UA-purchasing-system/commit/b5c642f92922a9debbde07211f3312a0a26accd3
 [fixdev]: https://github.com/bign8-AZ/UA-purchasing-system/commit/38dd5354c72d82eb4e001a522760c1f4e145b8aa
 [search]: https://github.com/bign8-AZ/UA-purchasing-system/commit/31523a27be3518f1a49f823399d54b7b0c14b24d
@@ -22,8 +22,13 @@ categories: update
 --------
 ## Meeting Notes
 
-- document database
-- retest with new db
-- push public sqlite3
-- FINAL release-ish
-- get strings for final releease
+- Jenny Notes / fixes
+	- [x] on cart go back to website link
+	- [x] hit enter on login screen
+	- [x] fix error with removing custom payments
+- Final Plan
+	- push public sqlite3
+	- FINAL release-ish
+	- document database
+	- retest with new db
+	- get strings for final releease
