@@ -27,8 +27,8 @@ categories: update
 	- [x] hit enter on login screen
 	- [x] fix error with removing custom payments
 - Final Plan
-	- push public sqlite3
-	- FINAL release-ish
+	- [x] push public sqlite3
+	- [x] FINAL release-ish
 	- document database
 	- retest with new db
-	- get strings for final releease
+	- get strings for final release
