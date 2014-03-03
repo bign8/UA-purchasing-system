@@ -16,9 +16,28 @@ Using PhP's implementation of SQLite3 via PDO connections, provides programmers 
 
 ## Management Interface: phpLiteAdmin
 
-blah blah blah
+In searching for a replacement of phpMyAdmin, I found phpLiteAdmin.  This single file database management is located at `/libinc/phpmyadmin.php` relative to your build location.  Currently the password is defined in `/libinc/phpmyadmin.config.php` but eventually, it should be moved to `/libinc/config.php`.
+
+The source code has been modified in a few places denoted by `// nate added` which are described below.
+
+1. Supporting Foreign Keys
+2. Properly displaying `Create Table` queries
+
+> phpLiteAdmin is a web-based SQLite database admin tool written in PHP with support for SQLite2 and SQLite3.
+> Following in the spirit of the flat-file system used by SQLite,
+> phpLiteAdmin consists of a single source file, phpliteadmin.php,
+> that is dropped into a directory on a server and then visited in a browser.
+> There is no installation required.
+> The available operations, feature set, interface, and user experience is comparable to that of phpMyAdmin.  
+> &mdash; [Code.Google.com/p/phpLiteAdmin/](https://code.google.com/p/phpliteadmin/)
 
 ## Database Schema
+
+### Overview
+
+[![DB Schema](/img/schema.png)](/img/schema.png)
+&mdash; [Source](http://dbdsgnr.appspot.com/)
+
 ---
 ### <a name="address" href="#address">Address</a>
 Field     | Type    | Not Null | Default | Comments
