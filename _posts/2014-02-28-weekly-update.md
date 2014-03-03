@@ -29,6 +29,6 @@ categories: update
 - Final Plan
 	- [x] push public sqlite3
 	- [x] FINAL release-ish
-	- document database
+	- [x] document database
 	- retest with new db
 	- get strings for final release
