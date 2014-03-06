@@ -136,6 +136,10 @@ a:visited { color: #a0a; }
   margin-left: 1.35em;
 }
 
+.post ul ul {
+  margin-bottom: .5em;
+}
+
 .post code {
   border: 1px solid #ddd;
   background-color: #eef;
@@ -173,4 +177,6 @@ a:visited { color: #a0a; }
 
 .post img {
   max-width: 100%;
+  display: block;
+  margin: .5em auto;
 }
