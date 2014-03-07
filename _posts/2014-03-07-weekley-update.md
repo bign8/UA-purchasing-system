@@ -77,7 +77,8 @@ categories: update
 - Email notice that everything is ready for testing (things are in the proper place)
 - Calendar Request for administration training
 - Add links helper to item "Item administration"
-- Read email footer from file, not set in code
+- [`c45ddad`][] Read email footer from file, not set in code
 - [`1bdcb6b`][] Change email to info@upstremacademy.com
 
+[`c45ddad`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/c45ddadfbe9c501341bca5f88d130c223d8b0f42
 [`1bdcb6b`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/1bdcb6bdbacf492a831ec7c720ab43f00f03a298
