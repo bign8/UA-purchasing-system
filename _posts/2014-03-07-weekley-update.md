@@ -62,7 +62,7 @@ categories: update
 # Remaining
 
 - Administration
-	- Finish "Item administration" page
+	- [`085c4c3`][] Finish "Item administration" page
 	- Files Manager
 	- Firm Merge Feature
 	- Purchases (manual add memberships)
@@ -70,5 +70,14 @@ categories: update
 	- Re-test with new db
 	- get strings for final release
 
+[`085c4c3`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/085c4c35292951001bba95d27b50af6abc4e7185
+
 # Meeting notes
 
+- Email notice that everything is ready for testing (things are in the proper place)
+- Calendar Request for administration training
+- Add links helper to item "Item administration"
+- Read email footer from file, not set in code
+- [`1bdcb6b`][] Change email to info@upstremacademy.com
+
+[`1bdcb6b`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/1bdcb6bdbacf492a831ec7c720ab43f00f03a298
