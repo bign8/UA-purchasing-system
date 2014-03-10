@@ -65,17 +65,18 @@ categories: update
 	- [`085c4c3`][] Finish "Item administration" page
 	- Files Manager
 	- Firm Merge Feature
-	- Purchases (manual add memberships)
+	- [`06fe84d`][] Purchases (manual add memberships)
 - Team
 	- Re-test with new db
 	- get strings for final release
 
 [`085c4c3`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/085c4c35292951001bba95d27b50af6abc4e7185
+[`06fe84d`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/d6fe84dcbb11188ab4dd16d281a49f330c43788f
 
 # Meeting notes
 
 - Email notice that everything is ready for testing (things are in the proper place)
-- Calendar Request for administration training
+- [x] Calendar Request for administration training
 - [`2561159`][] Add links helper to item "Item administration"
 - [`c45ddad`][] Read email footer from file, not set in code
 - [`1bdcb6b`][] Change email to info@upstremacademy.com
