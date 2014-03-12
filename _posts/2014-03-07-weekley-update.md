@@ -63,7 +63,7 @@ categories: update
 
 - Administration
 	- [`085c4c3`][] Finish "Item administration" page
-	- Files Manager
+	- [`56f9652`][] Files Manager
 	- [`e9a8bf9`][] Firm Merge Feature
 	- [`06fe84d`][] Purchases (manual add memberships)
 - Team
@@ -71,6 +71,7 @@ categories: update
 	- get strings for final release
 
 [`085c4c3`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/085c4c35292951001bba95d27b50af6abc4e7185
+[`56f9652`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/56f96520f2a684c021835c966b8a3893e398d087
 [`e9a8bf9`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/e9a8bf9c8ad923e7c8660546a71d2b7a3104520d
 [`06fe84d`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/d6fe84dcbb11188ab4dd16d281a49f330c43788f
 
