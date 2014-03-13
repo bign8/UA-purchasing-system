@@ -13,11 +13,11 @@ categories: update
 - Fixing Errors found by Georgia in Email
 	- [`a17c155`][] On the ELA registration, we need them to add attendees.  It's going to questions without picking a participant.
 	- When I tried to add Kelsey, to the conference, I got this error.  
-	![Image Error](/img/badConf.jpg)
+	![Image Error](../../../../img/badConf.jpg)
 		- [`c6b9010`][] Issue was with not assigning values for un-required fields
 	- [`190499f`][] I'm also not sure why it says "select employee" on the bottom.  Is this actually a cancel button?
 	- After I choose employees, I get this message:  
-	![Image Error 2](/img/redirectError.jpg)
+	![Image Error 2](../../../../img/redirectError.jpg)
 		- Unable to reproduce
 	- [`84e4a5f`][] Modify reset password email and adding footer
 	<p style='font-family:"Palatino Linotype","serif";font-variant:small-caps;/*docs style*/border:1px solid #ddd;padding:5px 10px;background-color:#eef;margin-top:.5em'>

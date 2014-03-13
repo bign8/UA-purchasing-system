@@ -35,7 +35,7 @@ The source code has been modified in a few places denoted by `// nate added` whi
 
 ### Overview
 
-[![DB Schema](/img/schema.png)](/img/schema.png)
+[![DB Schema](../img/schema.png)](../img/schema.png)
 &mdash; [Source](http://dbdsgnr.appspot.com/)
 
 ---

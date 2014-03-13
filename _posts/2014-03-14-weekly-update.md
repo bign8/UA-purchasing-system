@@ -45,7 +45,7 @@ categories: update
 			- *As far as I can tell, this change is already implemented.  Possibly a new deployment will fix things*
 	- When I'm on the shopping cart checkout page it appears I can click on UA Payment and it will take me somewhere else but when I click on it, nothing happens.  
 		- *Fixed [`2b8a0e9`][]*
-	![Header](/img/header-1.png)
+	![Header](../../../../img/header-1.png)
 	- The same thing is true regards to the text that says "Home", nothing happens when I click on it.
 		- *Fixed [`b7c4dc5`][]*
 	- I'm not sure that it matters but on the simulated site it listed Upstream Academy Network (Annually) under Emerging Leaders Academy in addition to the listings under the Memberships designation.

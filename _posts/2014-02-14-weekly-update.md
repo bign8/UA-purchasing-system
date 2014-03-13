@@ -56,7 +56,7 @@ Desired Changes:
 
 - Fast
 	- [x] Modify Login  
-		![New Login Form](/img/loginMod.jpg)
+		![New Login Form](../../../../img/loginMod.jpg)
 	- [x] Change "Check" to "Start" (/register)
 	- [x] Move Primary buttons to the bottom right
 	- [x] Remove URL validation (www.asdf.com no http://)
@@ -71,7 +71,7 @@ Desired Changes:
 	- [x] don't require phone for participants / contacts
 	- [x] Remove spouse question! From conference
 	- [x] Redirect to shopping cart on no options for registering for event  
-		![Don't want to see this](/img/badConf.png)
+		![Don't want to see this](../../../../img/badConf.png)
 	- [x] Specialty niches as multiple check-box
 		- Tax
 		- Audit
