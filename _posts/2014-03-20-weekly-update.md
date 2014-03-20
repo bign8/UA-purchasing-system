@@ -39,7 +39,7 @@ categories: update
 # Group Training
 
 - Processes
-	- Merging Firms
+	- [`7267e86`][] Merging Firms
 	- Adding Items
 	- Creating Memberships
 	- Creating Discount Code
