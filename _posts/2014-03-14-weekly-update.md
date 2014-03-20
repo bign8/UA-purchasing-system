@@ -4,7 +4,7 @@ title:  Weekly Update
 categories: update
 ---
 
-# Completed last week
+# Completed last week ([tag 0.3.03][])
 
 - Administration
 	- [`085c4c3`][] Finish "Item administration" page
@@ -92,6 +92,7 @@ categories: update
 	- I tried to register my firm for UAN membership and I failed to fill in some of the fields. It wouldn't let me register without selecting an option for each but the fields weren't listed as mandatory.
 		- *Marked Form of Practice as required (Lame fix, but DOM checked wasn't working) [`c90b33c`][]*
 
+[tag 0.3.03]: https://github.com/bign8-AZ/UA-purchasing-system/commit/fc046eb64feb8fd65494f5b086e3bf4c45dfab99
 [`2b8a0e9`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/2b8a0e999c4b03e1e497964e2b2c8c824f5a05a2
 [`45ccc8e`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/45ccc8e739e40e4dd2a96af97f1396501746f871
 [`b7c4dc5`]: https://github.com/bign8-AZ/UA-purchasing-system/commit/b7c4dc59e4a530fa1d5a6a1943b38840a80fb329
