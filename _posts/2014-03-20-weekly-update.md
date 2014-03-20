@@ -42,7 +42,7 @@ categories: update
 	- [`7267e86`][] Merging Firms
 	- [`2eecaf7`][] Adding Items
 	- Creating Memberships (same as Items)
-	- Creating Discount Code
+	- [`46e1c70`][] Creating Discount Code
 	- Creating Discount Code for members
 	- Add member to group
 	- Adding new Product
