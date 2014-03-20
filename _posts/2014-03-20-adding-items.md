@@ -3,9 +3,7 @@ layout: post
 title:  Adding Items
 categories: process
 ---
-The instructions that follow explain how to merge two firms
-
-Warning: this action cannot be undone! 
+The instructions that follow explain how to add items
 
 1. Navigate to admin/items via the menu-bar (Admin > Items)
 	- You will see 3 columns of information

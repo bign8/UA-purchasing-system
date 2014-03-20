@@ -40,12 +40,12 @@ categories: update
 
 - Processes
 	- [`7267e86`][] Merging Firms
-	- Adding Items
-	- Creating Memberships
+	- [`2eecaf7`][] Adding Items
+	- Creating Memberships (same as Items)
 	- Creating Discount Code
 	- Creating Discount Code for members
 	- Add member to group
 	- Adding new Product
+- [`31730bf`][] Error on adding an item
 - Add ability to add fields
-- Error on adding an item
-- add ability to sort and search users (under products)
+- Add ability to sort and search users (under products)
