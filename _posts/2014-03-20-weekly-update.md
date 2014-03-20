@@ -44,8 +44,8 @@ categories: update
 	- Creating Memberships (same as Items)
 	- [`46e1c70`][] Creating Discount Code
 	- [`3670449`][] Creating Membership Link
-	- Discount Code for members
-	- Add member to group
+	- [`708e3c5`][] Discount Code for members
+	- [``][] Add member to group
 	- Adding new Product
 - [`31730bf`][] Error on adding an item
 - Add ability to add fields

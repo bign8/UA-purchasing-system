@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Creating Membership Link
+title:  Adding Member Discounts
 categories: process
 ---
 The instructions that follow explain how to add membership specific discounts
