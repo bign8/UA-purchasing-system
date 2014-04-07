@@ -45,9 +45,9 @@ categories: update
 	- [`46e1c70`][] Creating Discount Code
 	- [`3670449`][] Creating Membership Link
 	- [`708e3c5`][] Discount Code for members
-	- [``][] Add member to group
+	- [`aa67c4c`][] Add member to group
 	- Adding new Product
 - [`31730bf`][] Error on adding an item
-- Add ability to add fields
-- Add ability to sort and search users (under products)
+- [`88a9b84`][] Add ability to <s>sort and</s> search users (under purchases)
+- [`6b004cb`][] Add ability to add fields
 - Add managment presentation manager (move upcoming to past)
